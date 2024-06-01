@@ -39,7 +39,7 @@ If you want to run this game locally, follow these steps:
 
 1. Clone this repository to your local machine:
    bash
-   git clone https://github.com/yourusername/two-player-dice-game.git
+   git clone https://github.com/akshitasaxena1309/Pig-game.git
 2. Open the project directory:
    bash
    cd two-player-dice-game
